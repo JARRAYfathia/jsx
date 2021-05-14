@@ -1,0 +1,24 @@
+.App{
+    background-color: rgb(243, 247, 215);
+}
+.title{
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-size: 136px;
+}
+h2{
+    color: sienna;
+    text-align: center;
+    font-style: normal;
+    font-size: 46px;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-style: normal;
+    font-size: 46px;
+}
+img{
+    border-radius: 52px;
+}
